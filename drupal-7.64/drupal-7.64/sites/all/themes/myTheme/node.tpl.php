@@ -110,5 +110,6 @@
 
   <?php print render($content['comments']); ?>
 
+    <?php print render($content['body']); ?>
 </div>
 <!-- end node.tpl.php template -->
