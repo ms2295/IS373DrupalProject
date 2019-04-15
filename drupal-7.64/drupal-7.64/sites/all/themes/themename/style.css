@@ -40,8 +40,10 @@ body.front
     padding: 20px 0;
 }
 .sidebar .block {
-    background-color: #000066;
-    border-color: black;
+    background-color:
+            #F6F6F2;
+    border-color:
+            #F9F9F9;
     padding: 20px;
     margin-bottom: 20px;
 }
@@ -50,7 +52,8 @@ body.front
     margin-top: 5px;
 }
 #edit-submit {
-    background: #6f9dbd;
+    background:
+            #DDD;
     border: none;
     padding: 5px 15px;
     font-size: 14px;
