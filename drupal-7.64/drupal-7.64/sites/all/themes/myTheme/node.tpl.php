@@ -1,3 +1,4 @@
+<!-- start node.tpl.php template -->
 <?php
 
 /**
@@ -110,3 +111,4 @@
   <?php print render($content['comments']); ?>
 
 </div>
+<!-- end node.tpl.php template -->

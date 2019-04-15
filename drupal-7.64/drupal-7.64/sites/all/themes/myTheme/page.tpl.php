@@ -1,3 +1,4 @@
+<!-- start page.tpl.php template -->
 <?php
 
 /**
@@ -154,3 +155,4 @@
     </div></div> <!-- /.section, /#footer -->
 
   </div></div> <!-- /#page, /#page-wrapper -->
+<!-- end page.tpl.php template -->

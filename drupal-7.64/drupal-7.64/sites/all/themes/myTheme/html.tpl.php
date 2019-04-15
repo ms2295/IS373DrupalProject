@@ -1,3 +1,4 @@
+<!-- start html.tpl.php template -->
 <?php
 
 /**
@@ -61,3 +62,4 @@
   <?php print $page_bottom; ?>
 </body>
 </html>
+<!-- end html.tpl.php template -->
